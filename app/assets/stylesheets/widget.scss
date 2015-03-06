@@ -95,6 +95,7 @@ a:active {
 .alaveteli-widget__count {
     font-size: 55px;
     line-height: 55px;
+    text-align: center;
 }
 
 .alaveteli-widget__bottom a {
@@ -108,4 +109,4 @@ a:active {
     text-align: center;
 }
 
-@import "custom";
+@import "responsive/custom";
